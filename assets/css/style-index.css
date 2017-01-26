@@ -1,0 +1,53 @@
+body {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  color: #777;
+  line-height: 34px;
+  background: url("../images/concrete_seamless.png");
+}
+
+h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+  width: 100%;
+
+}
+
+.container {
+  margin: 20px;
+  width: 100%;
+}
+
+.col-xs-12, .col-sm-6, .col-sm-4 {
+  background-color:#fff;
+}
+
+.about-me-container {
+}
+
+.auth-image {
+  width: 100%;
+  padding: 15px 15px;
+}
+
+.about-me-content {
+  padding: 15px 15px;
+}
+
+.sidebar {
+  margin-top: 25px;
+}
+
+#connect {
+    padding-left: 15px;
+    padding-bottom: 15px;
+
+}
+
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
